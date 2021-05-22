@@ -1,4 +1,11 @@
 
+## 系统设计
+
+## redis
+
+
+
+
 | ID   | Title   |难易程度 | java   | go |  js|
 | :------: |:------:|:-----:| :------: | :------:| :------:|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) |Easy|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001.%20Two%20Sum/Solution.java)|
